@@ -1,1 +1,17 @@
-Hello World!
+Working:
+- displays map of Location and buildings
+- movement of player
+
+Bugs:
+- does not display character(linux)
+- when running into wall from outside corner, able to enter tile
+
+TODO:
+- get the sprites/animations working (improve code in Sprite.java)
+- add in NPCs
+- fix bugs
+- add items
+- add doors that lead to different locations
+
+NOTE:
+- had to rewrite beginning of Location.java because off save error
